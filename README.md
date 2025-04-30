@@ -78,5 +78,5 @@ We hope this serves as a valuable reference for similarly structured organizatio
 
 ---
 
-Thanks for reading! Feel free to explore our project materials and presentation. 🚀
+Thanks for reading! Feel free to explore our project materials and presentation. 🚀 
 
